@@ -8,7 +8,7 @@
 - 🌱 Actualmente estoy **aplicando** mis conocimientos en Python, Machine Learning y SQL a través de proyectos personales.
 - 💡 Busco activamente la **oportunidad de nivel inicial (Trainee/Junior)** para crecer profesionalmente y contribuir en un entorno de trabajo real.
 - 🔗 Interesado en la aplicación de la Ciencia de Datos para optimización de procesos, análisis financiero y salud digital.
-- 📫 **¿Cómo contactarme?** ¡Envíame un mensaje por [LinkedIn]([www.linkedin.com/in/nahuel-donoso-627a58b7])!
+- 📫 **¿Cómo contactarme?** ¡Envíame un mensaje por [LinkedIn](www.linkedin.com/in/nahuel-donoso-627a58b7)!
 
 ---
 
